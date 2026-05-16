@@ -1,0 +1,8 @@
+{
+  "name": "ai-smart-search",
+  "version": "1.0.0",
+  "description": "智能深度搜索助手 - 结合 Tavily 网络搜索与小米 MiMo AI 深度分析",
+  "runtime": "python",
+  "entry": "entry.py",
+  "transport": "stdio"
+}
